@@ -1,5 +1,6 @@
 # kingofsponges
 <img src="https://github.com/kingofsponges/kingofsponges/blob/main/sponge.png" title="me. just me. don't bother."> click on it or something if it's small, i'm too lazy to upload a bigger one.
+
 hey there, i'm sponge.
 
 i'm your average programmer in your local area. i don't have much code to show off here.
