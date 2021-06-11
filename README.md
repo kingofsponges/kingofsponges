@@ -1,5 +1,5 @@
 # kingofsponges
-<img src="https://github.com/kingofsponges/kingofsponges/blob/main/sponge.png" width="64" height="64" title="me. just me. don't bother.">
+<img src="https://github.com/kingofsponges/kingofsponges/blob/main/sponge.png" title="me. just me. don't bother.">
 hey there, i'm sponge.
 
 i'm your average programmer in your local area. i don't have much code to show off here.
