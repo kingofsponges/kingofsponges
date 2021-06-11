@@ -1,5 +1,6 @@
 # kingofsponges
-hey there, i'm <img src="https://github.com/kingofsponges/kingofsponges/blob/main/sponge.png" width="32" height="32" title="me. just me. don't bother."> sponge.
+<img src="https://github.com/kingofsponges/kingofsponges/blob/main/sponge.png" width="64" height="64" title="me. just me. don't bother.">
+hey there, i'm sponge.
 
 i'm your average programmer in your local area. i don't have much code to show off here.
 i am a hobbyist programmer, do not try to actually hire me. i can collaborate with you, but not be your "slave".
