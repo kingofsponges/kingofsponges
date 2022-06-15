@@ -1,2 +1,1 @@
-i'm sponge
-i make things.
+i'm sponge and i make things.
